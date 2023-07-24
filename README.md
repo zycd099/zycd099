@@ -3,7 +3,7 @@ zycb.b-cdn.net
 
 zycd.b-cdn.net
 
-http://zycd.mybb.rocks/
+https://zycd.usite.pro/blog/
 
 无法访问请挂vpn翻墙
 
